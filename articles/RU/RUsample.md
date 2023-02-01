@@ -9,6 +9,5 @@ tags:
 これはテスト記事です。
 
 RU 消費量を確認するためには、Normalized RU Consumption をしっかりと確認しましょう。
-あっさｄｆだｆだ
 
 ![](./RUsample/2023-02-01-12-27-24.png)
