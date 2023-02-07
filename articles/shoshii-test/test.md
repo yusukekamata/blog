@@ -11,4 +11,3 @@ tags:
 
 shoshii
 
-![](./RUsample/2023-02-01-12-27-24.png)
